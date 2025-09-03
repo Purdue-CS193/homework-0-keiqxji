@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Kaitlyn's First CS193 HW
 
+My favorite things about CS193
+- The teachers
+- Coding
+  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
